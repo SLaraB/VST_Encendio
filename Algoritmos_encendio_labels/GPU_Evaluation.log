@@ -1,0 +1,16 @@
+/home/slarab/Tesis/Algoritmos_encendio_labels
+Wed Aug 23 12:39:29 PM -04 2023
+Evaluation GPU 306 images using e-ncendio labels
+307
+torch.Size([1, 307])
+Tiempo de ejecución Densenet: 410.85945773124695 segundos
+307
+torch.Size([1, 307])
+Tiempo de ejecución Inception: 394.4887571334839 segundos
+307
+torch.Size([1, 307])
+Tiempo de ejecución Resnet: 400.644255399704 segundos
+Tiempo de ejecución VGG16: 431.0541317462921 segundos
+Tiempo de ejecución VGG19: 437.8433647155762 segundos
+Wed Aug 23 01:14:25 PM -04 2023
+Evaluation GPU Completed
