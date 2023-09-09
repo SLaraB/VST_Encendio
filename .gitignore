@@ -1,0 +1,6 @@
+# Ignorar resultados de algoritmos en carpetas específicas
+Algoritmos_imagenet_labels/Resultados_Densenet/
+Algoritmos_imagenet_labels/Resultados_Inception/
+Algoritmos_imagenet_labels/Resultados_Resnet/
+Algoritmos_imagenet_labels/Resultados_VGG16/
+Algoritmos_imagenet_labels/Resultados_VGG19/
