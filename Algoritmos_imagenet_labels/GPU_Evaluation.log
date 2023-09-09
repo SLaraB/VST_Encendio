@@ -1,0 +1,10 @@
+/home/slarab/Tesis/Algoritmos
+Fri Jul 28 02:33:10 AM -04 2023
+Evaluation GPU 306 images
+Tiempo de ejecución Densenet: 394.4078571796417 segundos
+Tiempo de ejecución Inception: 390.84508323669434 segundos
+Tiempo de ejecución Resnet: 385.37901544570923 segundos
+Tiempo de ejecución VGG16: 423.9107995033264 segundos
+Tiempo de ejecución VGG19: 435.48724699020386 segundos
+Fri Jul 28 03:07:22 AM -04 2023
+Evaluation GPU Completed

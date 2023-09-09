@@ -1,0 +1,10 @@
+/home/slarab/Tesis/Algoritmos
+Thu Jul 27 11:23:16 PM -04 2023
+Evaluation CPU 306 images
+Tiempo de ejecución Densenet: 455.56282806396484 segundos
+Tiempo de ejecución Inception: 465.96041679382324 segundos
+Tiempo de ejecución Resnet: 485.00296330451965 segundos
+Tiempo de ejecución VGG16: 693.1955120563507 segundos
+Tiempo de ejecución VGG19: 769.5589032173157 segundos
+Fri Jul 28 12:11:24 AM -04 2023
+Evaluation CPU Completed
